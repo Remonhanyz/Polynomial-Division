@@ -1,0 +1,5 @@
+- I didn't use functions in writing the code as I found that it will make the code way less readable, over complicated and would increase the run time, the project is much easier than that.
+
+- the code prints the reminder between [] bracketes and if there is no reminder [0] will be printed.
+
+- the code is valid for any higher degree polynomial divisions, and I have added photos for more examples that I have tested and how the code handeled them.
